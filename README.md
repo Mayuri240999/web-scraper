@@ -1,4 +1,5 @@
-#  Web Scraper & JSON API using Puppeteer and Flask                                                                                                                                                                  This project scrapes metadata (title, heading, and description) from a specified URL using Puppeteer (Node.js) and serves the extracted data as JSON through a Flask (Python) web server. Everything is containerized using a multi-stage Docker build for efficiency and modularity.
+#  Web Scraper & JSON API using Puppeteer and Flask  
+This project scrapes metadata (title, heading, and description) from a specified URL using Puppeteer (Node.js) and serves the extracted data as JSON through a Flask (Python) web server. Everything is containerized using a multi-stage Docker build for efficiency and modularity.
 
 #Project Structure
 .
